@@ -101,16 +101,16 @@ pytest
 pytest --cov=waf tests/
 ```
 
-## 📝 Roadmap
+# ## 📝 Roadmap
 
-- [ ] Module de détection d'injection SQL
-- [ ] Module de protection XSS
-- [ ] Système de règles configurables
-- [ ] Interface web de monitoring
-- [ ] API REST pour la gestion
-- [ ] Support Docker
-- [ ] Documentation complète
-- [ ] Tests unitaires et d'intégration
+# - [ ] Module de détection d'injection SQL
+# - [ ] Module de protection XSS
+# - [ ] Système de règles configurables
+# - [ ] Interface web de monitoring
+# - [ ] API REST pour la gestion
+# - [ ] Support Docker
+# - [ ] Documentation complète
+# - [ ] Tests unitaires et d'intégration
 
 ## 👥 Auteurs
 
